@@ -8,6 +8,7 @@ body::before {
   height: 100%;
   border-radius: 10px;
 }
+/* Media queries for mobile view */
 @media (min-width: 768px) {
   .news-input {
     width: 50%;
